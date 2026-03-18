@@ -31,4 +31,4 @@
 
 
 ### 2. Разработка архитектуры (UML-диаграмма):
-![UML-диаграмма]https://github.com/fkfskz/practice_admin/blob/main/diagramma.png
+![UML Диаграмма](https://github.com/fkfskz/practice_admin/blob/main/diagramma.png)
